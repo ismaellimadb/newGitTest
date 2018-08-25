@@ -1,0 +1,7 @@
+git clone "link" --baixa repositorio
+git add "arquivo"
+git rm "arquivo"
+git status --checar
+git commit -m "mensagem"
+git push --upload
+git pull --download
